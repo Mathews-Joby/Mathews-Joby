@@ -6,7 +6,7 @@
 ![My streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathews-Joby&theme=dark)
 ![![My contribution graph](https://activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)](https://jothin-github-activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark) 
 I am Mathews Joby. I am 14 years old and I am very interested in programming. I am good at web development and arduino.
-<!--
+
 **Mathews-Joby/Mathews-Joby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about making static websites.
 - 📫 How to reach me: NeoClipse#5089 (Discord) or mathews.joby600@gmail.com
 - ⚡ Fun fact: I like making friends.
--->
-- 📫 **Feel free to reach me at:**  
+- 📫 **Feel free to reach me at:** 👇🏼
 E-mail: mathews.joby600@outlook.com (or) mathews.joby600@gmail.com  
 
 ![Reddit logo](https://img.shields.io/discord/918215762009800725?label=DISCORD&logo=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FOIP._OhX2CkmeyfM-ZWESZnTzQHaGg%3Fpid%3DImgDet%26rs%3D1&logoColor=blue&style=social): @NeoClipse#5089  
