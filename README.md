@@ -7,7 +7,7 @@
 ![![My contribution graph](https://activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)](https://jothin-github-activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark) 
 I am Mathews Joby. I am 14 years old and I am very interested in programming. I am good at web development and arduino.
 
-**Mathews-Joby/Mathews-Joby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**Mathews-Joby/Mathews-Joby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
