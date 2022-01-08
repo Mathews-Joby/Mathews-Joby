@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like making friends.
 -->
 - 📫 **Feel free to reach me at:**  
-E-mail: contact@jothin.tech (or) bjothinphysics@gmail.com  
-![Discord logo](https://clipartcraft.com/images/discord-logo-transparent-better.png): @NeoClipse#5089
-[![Facebook logo](	https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?width=720&auto=webp&s=be9d031a2551b47bcd40ec45feec636d42a32127): @SUDO-Mathews](https://www.reddit.com/user/SUDO-Mathews)
+E-mail: mathews.joby600@outlook.com (or) mathews.joby600@gmail.com  
+
+![Reddit logo](https://img.shields.io/discord/918215762009800725?label=DISCORD&logo=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FOIP._OhX2CkmeyfM-ZWESZnTzQHaGg%3Fpid%3DImgDet%26rs%3D1&logoColor=blue&style=social): @NeoClipse#5089  
+[![Facebook logo](	https://img.shields.io/reddit/user-karma/link/SUDO-Mathews?color=orange&label=REDDIT&style=social): @SUDO-Mathews](https://www.reddit.com/user/SUDO-Mathews)
 
 **Show me your support by starring my repositories and by following me :-)**  
 **[Hire me on Fiverr for Adobe XD projects.](https://www.fiverr.com/mathews_joby)**
