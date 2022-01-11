@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Jothin-Mathews-Joby.Mathews-Joby)  
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Mathews-Joby.Mathews-Joby)  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mathews-Joby&count_private=true&show_icons=true&theme=radical)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Joby&theme=radical)  
 ![My streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathews-Joby&theme=dark)
