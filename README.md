@@ -4,7 +4,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mathews-Joby&count_private=true&show_icons=true&theme=radical)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Joby&theme=radical)  
 ![My streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathews-Joby&theme=dark)
-![![My contribution graph](https://activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)](https://Mathews-github-activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)  
+![![My contribution graph](https://activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)](https://jothin-github-activity-graph.herokuapp.com/graph?username=Mathews-Joby&theme=react-dark)  
 I am Mathews Joby. I am 14 years old and I am very interested in programming. I am good at web development and arduino.
 
 <!-- **Mathews-Joby/Mathews-Joby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
