@@ -25,4 +25,4 @@ E-mail: mathews.joby600@outlook.com (or) mathews.joby600@gmail.com
 [![Facebook logo](	https://img.shields.io/reddit/user-karma/link/SUDO-Mathews?color=orange&label=REDDIT&style=social): @SUDO-Mathews](https://www.reddit.com/user/SUDO-Mathews)
 
 **Show me your support by starring my repositories and by following me :-)**  
-**[Hire me on Fiverr for Adobe XD projects.](https://www.fiverr.com/mathews_joby)**
+**[Check out my Fiverr.. Don't Hire Me.](https://www.fiverr.com/mathews_joby)**
